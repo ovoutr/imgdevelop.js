@@ -6,7 +6,7 @@
  **css美化版**
  https://github.com/cndelivr/imgdevelop.js
  引入css和js，图片元素如下：
- <!-- HTML代码 -->
+** <!-- HTML代码 -->
 <img src="your-image-url.jpg" onclick="previewImage(this)" />
 
 <div id="preview-container">
@@ -14,4 +14,4 @@
     <span id="close-btn" onclick="closePreview()">×</span>
     <img id="preview-image" src="" alt="Preview Image"/>
   </div>
-</div>
+</div>**
